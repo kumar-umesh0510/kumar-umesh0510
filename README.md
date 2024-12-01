@@ -1,94 +1,134 @@
-# 👨‍💻 Know me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Umesh
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+> 💻 Full Stack Developer | 🚀 Open Source Enthusiast | 📱 Mobile App Developer
 
-Welcome to my developer portfolio! This repository showcases my projects, skills, and journey as a software developer.
+<p align="center">
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak">
+</p>
 
-### Project 1: [Project Name]
-- Brief description of the project
-- Key technologies used
-- Live demo: [Link]()
-- Repository: [Link]()
+## 💼 Portfolio Highlights
 
-### Project 2: [Project Name]
-- Brief description of the project
-- Key technologies used
-- Live demo: [Link]()
-- Repository: [Link]()
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <p align="center">
+        <a href="https://github.com/username/project1" target="_blank">
+          <img src="https://via.placeholder.com/400x200" width="400" alt="Project 1"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/username/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080808?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=webpack&logoColor=white">
+          </a>
+        </p>
+        <p><strong>React, Node.js, MongoDB</strong> - A brief description of your amazing project and what problems it solves.</p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <p align="center">
+        <a href="https://github.com/username/project2" target="_blank">
+          <img src="https://via.placeholder.com/400x200" width="400" alt="Project 2"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/username/project2" target="_blank">
+            <img src="https://img.shields.io/badge/Code-080808?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://project2-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=webpack&logoColor=white">
+          </a>
+        </p>
+        <p><strong>TypeScript, Next.js, PostgreSQL</strong> - A brief description of your amazing project and what problems it solves.</p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>Frontend</summary>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+```javascript
+const frontend = {
+  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  frameworks: ['React', 'Next.js', 'Vue.js'],
+  styling: ['Tailwind CSS', 'Styled Components', 'SASS'],
+  testing: ['Jest', 'React Testing Library', 'Cypress']
+}
+```
+</details>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<details>
+<summary>Backend</summary>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+```javascript
+const backend = {
+  languages: ['Node.js', 'Python', 'Java'],
+  frameworks: ['Express.js', 'NestJS', 'Django'],
+  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+  tools: ['Docker', 'Kubernetes', 'AWS']
+}
+```
+</details>
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 🎯 Current Focus
 
-## 🎓 Education
+- 🔭 I'm currently working on [Current Project]
+- 🌱 I'm learning [Technology/Skill]
+- 👯 I'm looking to collaborate on [Type of Projects]
+- 💬 Ask me about [Your Expertise]
 
-- **Degree Name** - University Name (Year)
-  - Relevant coursework
-  - Academic achievements
-
-## 💼 Work Experience
-
-### Company Name (Year - Present)
-- Position: Software Developer
-- Key responsibilities and achievements
-- Technologies used
-
-### Previous Company (Year - Year)
-- Position: Junior Developer
-- Key responsibilities and achievements
-- Technologies used
-
-## 📫 Get in Touch
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-username)
-- 🐦 Twitter: [@your-username](https://twitter.com/your-username)
-- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
-
-## 📝 Blog Posts
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](link-to-post)
-- [Blog Post Title 2](link-to-post)
-- [Blog Post Title 3](link-to-post)
+- [How to Build a Scalable Architecture](https://yourblog.com/post1)
+- [Best Practices for React Performance](https://yourblog.com/post2)
+- [Understanding System Design](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Contributing
+## 🏆 Achievements
 
-If you find any issues or have suggestions for improvement, feel free to create an issue or submit a pull request.
+- 🎉 [Achievement 1]
+- 🌟 [Achievement 2]
+- 🏅 [Achievement 3]
 
-## 📄 License
+## 📫 Let's Connect!
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <a href="https://calendly.com/your-username">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
 ---
-⭐️ From [your-username](https://github.com/your-username)
+
+<p align="center">
+  <i>✨ If you like my work, you can support me by buying me a coffee!</i>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-username">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
