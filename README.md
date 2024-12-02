@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey! Dive into my world of exploration.
 
-> 💻 Full Stack Developer | 🚀 Open Source Enthusiast | 📱 Mobile App Developer
+> 💻 Technology Enthusiast | 🤝 Collaborator | 👨‍👩‍👧 Proud Father
 
 <p align="center">
   <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
