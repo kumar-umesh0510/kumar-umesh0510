@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-usernamekumar-umesh0510&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-umesh0510&theme=dark" alt="GitHub Streak">
 </p>
 
 ## 💼 Portfolio Highlights
