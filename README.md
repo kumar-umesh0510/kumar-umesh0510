@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-umesh0510&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-umesh0510&theme=light" alt="GitHub Streak">
 </p>
 
 ## 💼 Portfolio Highlights
@@ -84,8 +84,8 @@ const backend = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumar-umesh0510&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-umesh0510&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumar-umesh0510&show_icons=true&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-umesh0510&theme=github_light&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## 🎯 Current Focus
